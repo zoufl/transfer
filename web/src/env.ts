@@ -1,0 +1,1 @@
+export const isProdEnv = import.meta.env.PROD

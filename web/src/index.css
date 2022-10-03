@@ -1,0 +1,11 @@
+body, #root {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+@media screen and (min-width: 500px) {
+    .action-btn-group {
+        margin: 0 30% !important;
+    }
+}

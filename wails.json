@@ -1,0 +1,12 @@
+{
+  "name": "transfer",
+  "outputfilename": "transfer",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "zoufl",
+    "email": "zoufolin@163.com"
+  }
+}
