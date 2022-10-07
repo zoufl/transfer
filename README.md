@@ -1,5 +1,16 @@
 # Transfer (GO)
 
+## 技术栈
+- Go
+- Wails
+- Gin
+- WebSocket
+- JavaScript/TypeScript
+- React
+- CSS
+- antd
+- antd-mobile
+- axios
 
 ## About
 
